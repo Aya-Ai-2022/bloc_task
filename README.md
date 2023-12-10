@@ -1,6 +1,8 @@
-# simple_todo_bloc
+# simple bloc task
 
-A new Flutter project.
+###  Demo for this task
+
+![](https://github.com/Aya-Ai-2022/bloc_task/blob/main/demo.gif)
 
 ## Getting Started
 
