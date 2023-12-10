@@ -1,0 +1,18 @@
+{
+    "editor.minimap.autohide": true,
+    "editor.minimap.renderCharacters": true,
+    "editor.inlineSuggest.showToolbar": "never",
+    "less.hover.references": false,
+    "diffEditor.experimental.showEmptyDecorations": false,
+    "diffEditor.experimental.showMoves": false,
+    "diffEditor.hideUnchangedRegions.contextLineCount": 99,
+    "workbench.list.smoothScrolling": true,
+    "workbench.list.scrollByPage": true,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line",
+    "editor.cursorSurroundingLines": 0,
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.find.addExtraSpaceOnTop": false,
+    "editor.defaultColorDecorators": true,
+    "editor.accessibilityPageSize": 500
+}
